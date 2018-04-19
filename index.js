@@ -30,4 +30,5 @@ function funkyFunction() {
 // NOTE: you only need to modify the code below this line.
 function theFunk() {
   var theFunk = 'is FUNKY!'
+  return theFunk
 }
